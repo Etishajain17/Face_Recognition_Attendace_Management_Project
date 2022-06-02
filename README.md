@@ -18,7 +18,7 @@ This project aims to automate the traditional attendance system where the attend
 
 
 
-### Main Python Project file: https://github.com/Etishajain17/Face_Recognition_Attendace_Management_Project/blob/master/AttendanceProject.py
+### Main Python Project file: https://tinyurl.com/34ets5u8
        
        
        
