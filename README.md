@@ -1,4 +1,4 @@
-# Face_Recognition_Attendace_Management_Project
+# Face_Recognition_Attendance_Management_Project
 
 ![alt text](https://www.nec.com/en/global/solutions/biometrics/img/face/face_header_pc.jpg)
 
